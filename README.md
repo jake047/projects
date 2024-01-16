@@ -4,4 +4,7 @@ For this first project, I used python and tools like pandas and numpy to clean, 
 
 Project 2: Customer Sales (Tableau Dashboard)
 
+<a href="https://public.tableau.com/views/CustomerAnalysis_16956705069100/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link"> Click here</a>
+
+
 Project 3: Coffee Sales (Excel Dashboard)
