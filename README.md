@@ -1,5 +1,7 @@
 Project 1: Trade Analysis
 
+For this first project, I used python and tools like pandas and numpy to clean, extract and analyze NBA data. As a life-long 76ers fan, I wanted to analyze and compare players who were on the trade market who can impact the 76ers in the right way. After analyzing the data, I went into Excel and created pivot tables and charts of each player. Thus, I would draw a conclusion from each player based not only on the eye test, but their averages each season in search for valuable trends.
+
 Project 2: Customer Sales (Tableau Dashboard)
 
 Project 3: Coffee Sales (Excel Dashboard)
