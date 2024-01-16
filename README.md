@@ -1,5 +1,4 @@
 Jacob Petrosh
-
 Aspiring Data Analysta
 
 Project 1: Trade Analysis
