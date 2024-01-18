@@ -7,7 +7,9 @@ For this first project, I used python and tools like pandas and numpy to clean, 
 
 ### Project 2: Customer Sales (Tableau Dashboard)
 
-<a href="https://public.tableau.com/views/CustomerAnalysis_16956705069100/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link"> Click here</a>
+This interactive dashboard built in tableau contains nearly one million rows of customer sales data. After importing the data into tableau, I was able to build charts, graphs, and maps to display my insights. These included revenue per state, gender, age, and much more. To make the dashboard intereactive, I added filters to each visual. This allows the user to narrow search results based on their individual needs.
+
+<a href="https://public.tableau.com/views/CustomerAnalysis_16956705069100/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link"> Click here</a> to view the dashboard on Tableau Public
 
 
 ### Project 3: Coffee Sales (Excel Dashboard)
