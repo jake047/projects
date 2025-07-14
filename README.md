@@ -1,9 +1,13 @@
 # Jacob Petrosh
-## Aspiring Data Analyst
+## Aspiring Data / Buisness Analyst
+
+### Project 0: NBA East vs. West Analysis
+
+I analyzed the NBA’s Eastern and Western Conferences over the past 25 years to test my hypothesis that the West has been stronger overall. I used pivot tables and charts to visualize key metrics like win percentages, playoff appearances, and championship distribution. The data showed consistent dominance from Western teams across several categories, which helped validate my original hypothesis. This project let me blend statistical analysis with visual storytelling, turning raw numbers into clear, compelling insights.
 
 ### Project 1: Trade Analysis
 
-For this first project, I used python and tools like pandas and numpy to clean, extract and manipulate NBA data. As a life-long 76ers fan, I wanted to analyze and compare players who were on the trade market who can impact the 76ers in the right way. After analyzing the data, I went into Excel and created pivot tables and charts of each player. Thus, I would draw a conclusion from each player based not only on the eye test, but their averages each season in search for valuable trends.
+For this project, I used python and tools like pandas and numpy to clean, extract and manipulate NBA data. As a life-long 76ers fan, I wanted to analyze and compare players who were on the trade market who can impact the 76ers in the right way. After analyzing the data, I went into Excel and created pivot tables and charts of each player. Thus, I would draw a conclusion from each player based not only on the eye test, but their averages each season in search for valuable trends.
 
 <a href="https://github.com/jake047/projects/blob/main/NBA%20Player%20Analysis_%20Trade%20Deadline%20Edition.pdf"> Click here</a> to view
 
